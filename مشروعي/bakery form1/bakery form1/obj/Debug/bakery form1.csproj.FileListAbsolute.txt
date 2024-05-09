@@ -1,0 +1,17 @@
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\bakery form1.exe.config
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\bakery form1.exe
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\bakery form1.pdb
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\obj\Debug\bakery form1.csprojResolveAssemblyReference.cache
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\obj\Debug\bakery_form1.Form1.resources
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\obj\Debug\bakery_form1.Properties.Resources.resources
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\obj\Debug\bakery form1.csproj.GenerateResource.Cache
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\obj\Debug\bakery form1.exe.licenses
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\obj\Debug\bakery form1.exe
+C:\Users\EnGiNeeR\Desktop\مشروعي\bakery form1\bakery form1\obj\Debug\bakery form1.pdb
